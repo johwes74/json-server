@@ -1,1 +1,34 @@
-
+{
+  "users": [
+    {
+      "id": "jw",
+      "username": "johan",
+      "score": 55,
+      "active": true
+    },
+    {
+      "id": "lw",
+      "username": "lovisa",
+      "score": 553,
+      "active": true
+    },
+    {
+      "username": "alexander",
+      "score": 59,
+      "active": true,
+      "id": "aw"
+    }
+  ],
+  "attempts": [
+    {
+      "id": "0001",
+      "score": 5,
+      "userId": "lw"
+    },
+    {
+      "id": "0002",
+      "score": 10,
+      "userId": "lw"
+    }
+  ]
+}
