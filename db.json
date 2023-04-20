@@ -3,20 +3,26 @@
     {
       "id": "jw",
       "username": "johan",
-      "score": 55,
+      "score": 48,
       "active": true
     },
     {
       "id": "lw",
       "username": "lovisa",
-      "score": 553,
+      "score": 15,
       "active": true
     },
     {
       "username": "alexander",
-      "score": 59,
+      "score": 18,
       "active": true,
       "id": "aw"
+    },
+    {
+      "username": "asa",
+      "score": 48,
+      "active": true,
+      "id": "aaw"
     }
   ],
   "attempts": [
